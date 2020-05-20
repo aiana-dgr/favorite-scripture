@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Favorite Scripture</string>
+    <string name="input_book">Book</string>
+    <string name="input_chapter">Chapter</string>
+    <string name="input_verse">Verse</string>
+    <string name="button_submit">Submit</string>
+    <string name="favorite_scripture">Favorite Scripture</string>
+    <string name="display_head">Your favorite scripture is:</string>
+    <string name="save_scripture">Save Scripture</string>
+    <string name="load_scripture">Load Scripture</string>
+    <string name="enter_your_favorite_scripture">Enter your favorite scripture</string>
+    <string name="load">Saved Scripture</string>
+</resources>
